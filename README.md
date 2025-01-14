@@ -8,3 +8,5 @@ https://store.steampowered.com/app/2965780/Good_Soup/?beta=1
    
 You can learn more about me and how to get in contact with me at my personal website:   
 https://aaronpost.dev   
+
+Profile picture by @prepsure
