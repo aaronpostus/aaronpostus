@@ -1,5 +1,5 @@
 ### Hi there, my name is Aaron Post 👋 I am:   
-🥽 Working as an AR Software Engineer for Trace 3D to help people create immersive experiences for AR.   
+🥽 Working as an AR Software Engineer for Trace 3D to help people create immersive experiences in the XR space.   
 ✨ Passionately developing interactive media projects and collaborating with artists -- especially using 3D engines like Unity.   
 🥣 Finishing up a game called "Good Soup" as a side project which is shipping on Steam soon!   
    
